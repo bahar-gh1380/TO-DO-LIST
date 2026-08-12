@@ -12,23 +12,13 @@ A responsive task management web application built with HTML, CSS, and JavaScrip
 - 💾 Save tasks using Local Storage (if applicable)
 
 ## Technologies
-
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
 ## Skills Demonstrated
-
 - DOM Manipulation
 - Event Handling
 - Responsive Web Design
 - JavaScript Functions
 - Code Organization
-
-## Preview
-
-(Add screenshots here)
-
-## Live Demo
-
-(Add GitHub Pages link here if available)
